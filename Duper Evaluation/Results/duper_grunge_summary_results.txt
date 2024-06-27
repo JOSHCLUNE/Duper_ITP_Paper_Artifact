@@ -1,0 +1,4 @@
+Number FOF problems attempted in total (Duper-): 1000, number solved in total: 64
+Number THF problems attempted in total (Duper-): 1000, number solved in total: 231
+Number FOF problems attempted in total (Duper+): 1000, number solved in total: 64
+Number THF problems attempted in total (Duper+): 1000, number solved in total: 78

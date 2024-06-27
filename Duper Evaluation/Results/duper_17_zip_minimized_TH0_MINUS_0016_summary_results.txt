@@ -1,0 +1,2 @@
+Number attempted in total (Duper-): 5000, number solved in total: 1231
+Number attempted in total (Duper+): 5000, number solved in total: 1214

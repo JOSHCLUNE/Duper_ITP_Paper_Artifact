@@ -1,0 +1,2 @@
+Number FOF problems attempted in total (Vampire): 1000, number solved in total: 262
+Number THF problems attempted in total (Vampire): 1000, number solved in total: 459
